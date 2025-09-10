@@ -1,4 +1,4 @@
-<h2 align="left">Hi ^^ My name is Mohh and I'm an enby, from the UK</h2>
+<h2 align="left">Hi ^^ My name is liz (or mohh) and I'm an enby, from the UK</h2>
 
 ###
 
@@ -37,8 +37,8 @@
 
 |key|value|
 |--|--|
-| Pronouns |  They/Them |
-|Gender|Non-Binary|
+| Pronouns |  They/She |
+|Gender|Demigirl|
 |Timestamp|XX-03-2009|
 |Location| UK|
 
