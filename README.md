@@ -1,4 +1,4 @@
-<h2 align="middle">Hi ^^ My name is liz (or mohh) and I'm an enby, from the UK</h2>
+<h2 align="middle">Hi ^^ My name is liz and I'm an enby, from the UK</h2>
 
 ###
 
