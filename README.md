@@ -5,7 +5,7 @@
 <div align="middle">
       
 ![](https://github-readme-stats.vercel.app/api?username=x-nbnv&show=discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=onedark)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=x-nbnv&theme=onedark)]<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=x-nbnv&theme=onedark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=x-nbnv&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
